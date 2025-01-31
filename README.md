@@ -1,7 +1,7 @@
-COT4500 Numerical Calculus
-Programming Assignment 1
-Brandon Ramlagan
-January 31, 2025
+**COT4500 Numerical Calculus**<br>
+Programming Assignment 1<br>
+Brandon Ramlagan<br>
+January 31, 2025<br>
 
 This project implements 4 different algorithms: approximation algorithm, bisection method, fixed-point iteration, and Newton-Raphson method. 
 
